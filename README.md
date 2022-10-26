@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A passionate for technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gucamelo&label=Profile%20views&color=0e75b6&style=flat" alt="gucamelo" /> </p>
+<img alt="followers" src="https://img.shields.io/github/followers/gucamelo?label=Followers&style=social">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gucamelo" alt="gucamelo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/miurept" target="blank"><img src="https://img.shields.io/twitter/follow/miurept?logo=twitter&style=for-the-badge" alt="miurept" /></a> </p>
 
-- 🎓 I’m currently studying computer science at [ESTG - Instituto Politecnico do Porto](http://estg.ipp.pt)
-
-- 💻 I’m also attending to [42 PORTO](http://42porto.com)
+- 🎓 I’m currently studying computer science at [ESTG - Instituto Politecnico do Porto](https://estg.ipp.pt)
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍🏫 I’m teaching kids & teens how to code at [Sharkcoders](http://sharkcoders.pt)
+- 💻 I’m also attending to [42 PORTO](https://42porto.com)
 
-- 👨‍💻 All of my projects are available at [https://guilherme-silva.pt/](https://guilherme-silva.pt/)
+- 👨‍🏫 I’m teaching kids & teens how to code at [Sharkcoders](https://sharkcoders.pt)
+
+- 👨‍💻 All of my projects are available at [guilherme-silva.pt](guilherme-silva.pt)
 
 - 📫 How to reach me **guilhermeacrsilva@gmail.com**
 
 - ⚡ Fun fact **I started coding at arround 8 years old**
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gucamelo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/miure_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miure_pt" height="30" width="40" /></a>
+<a href="https://twitter.com/miurept" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miurept" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guilherme-silva-44ba02174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme-silva-44ba02174/" height="30" width="40" /></a>
 <a href="https://instagram.com/miuresivla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miuresivla" height="30" width="40" /></a>
 </p>
