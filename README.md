@@ -35,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gucamelo&" alt="gucamelo" /></p>
 
+<h1>42 Progress:</h1>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6vdw1bl00380gjvt1ovz5fz/stats?cursusId=21&coalitionId=294" alt="gucamelo's 42 stats" /></a>
