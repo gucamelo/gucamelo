@@ -13,7 +13,7 @@
 
 - 👨‍🏫 I’m teaching kids & teens how to code at [Sharkcoders](https://sharkcoders.pt)
 
-- 👨‍💻 All of my projects are available at [guilherme-silva.pt](guilherme-silva.pt)
+- 👨‍💻 All of my projects are available at [guilherme-silva.pt](http://guilherme-silva.pt)
 
 - 📫 How to reach me **guilhermeacrsilva@gmail.com**
 
